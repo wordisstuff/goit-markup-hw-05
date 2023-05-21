@@ -133,7 +133,6 @@ body {
     width: 100%;
     height: 4px;
     border-radius: 2px;
-    transition: background-color var(--hover-style), transform var(--hover-style);
     background-color: var(--hover);
 }
 
@@ -141,9 +140,6 @@ body {
     position: relative;
 }
 
-.nav-link::after {
-    background-color: var(--hover);
-}
 
 .nav-link:hover,
 .nav-link:focus {
