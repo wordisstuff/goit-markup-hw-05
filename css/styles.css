@@ -114,6 +114,8 @@ body {
 }
 
 .nav-link {
+
+    position: relative;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -134,10 +136,6 @@ body {
     height: 4px;
     border-radius: 2px;
     background-color: var(--hover);
-}
-
-.nav-item {
-    position: relative;
 }
 
 
