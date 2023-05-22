@@ -1,4 +1,4 @@
-/* ☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾DEFAULT☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾☝🏾 */
+/* ✅✅✅ 🛑🛑🛑🛑🛑🛑☝🏾DEFAULT☝🏾🛑🛑🛑🛑🛑🛑 */
 h1,
 h2,
 h3,
@@ -58,9 +58,10 @@ body {
     background-color: var(--background-white);
 }
 
+/* ❌❌❌ 🛑🛑🛑☝🏾DEFAULT☝🏾🛑🛑🛑 */
 
 
-/* 🤹🏽‍♀️ 🤹🏽 🤹🏽‍♂️🤹🏽‍♀️ 🤹🏽 🤹🏽‍♂️ NAVIGATION 🤹🏽‍♀️ 🤹🏽 🤹🏽‍♂️🤹🏽‍♀️ 🤹🏽 🤹🏽‍♂️ */
+/* ✅✅✅ ⭕️⭕️⭕️⭕️ NAVIGATION ⭕️⭕️⭕️⭕️ */
 
 .section {
     padding-bottom: 120px;
@@ -170,9 +171,10 @@ body {
     color: var(--hover);
 }
 
+/* ❌❌❌ ⭕️⭕️ NAVIGATION ⭕️⭕️ */
 
 
-/* 🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️ HERO 🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️ */
+/* ✅✅✅ 🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️ HERO 🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️🦸‍♂️ */
 
 
 .hero {
@@ -226,7 +228,10 @@ body {
     background-color: var(--hover);
 }
 
-/* 🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢 FEATURE 🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢🪢 */
+/* ❌❌❌ 🦸‍♂️🦸‍♂️🦸‍♂️ HERO 🦸‍♂️🦸‍♂️🦸‍♂️ */
+
+
+/* ✅✅✅ 🪢🪢🪢🪢🪢🪢 FEATURE 🪢🪢🪢🪢🪢🪢 */
 
 .fix-margin {
     padding-bottom: 0;
@@ -256,7 +261,10 @@ body {
     margin-bottom: 8px;
 }
 
-/* ******************************* WORKS ******************************* */
+/* ❌❌❌ 🪢🪢🪢 FEATURE 🪢🪢🪢 */
+
+
+/* ✅✅✅ 💥💥💥💥💥💥💥💥💥💥💥💥💥💥 WORKS 💥💥💥💥💥💥💥💥💥💥💥💥💥💥 */
 
 .works {
     padding-top: 0;
@@ -286,10 +294,10 @@ body {
     margin-bottom: 72px;
 }
 
-/* ******************************* WHAT ARE WE DOING ******************************* */
+/* ❌❌❌ 💥💥💥 WORKS 💥💥💥 */
 
 
-/* 🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️CREW 🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️ */
+/* ✅✅✅ 🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️ CREW 🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️🧝‍♂️ */
 .section.crew {
     background-color: var(--background-primary);
 }
@@ -329,7 +337,10 @@ body {
     margin-bottom: 8px;
 }
 
-/* ******************************* FOOTER ******************************* */
+/* ❌❌❌ 🧝‍♂️🧝‍♂️🧝‍♂️ CREW 🧝‍♂️🧝‍♂️🧝‍♂️ */
+
+
+/* ✅✅✅ 🔥🔥🔥🔥🔥🔥 FOOTER 🔥🔥🔥🔥🔥🔥 */
 
 .footer-link {
     display: inline-block;
@@ -399,7 +410,11 @@ body {
     fill: var(--background-primary);
 }
 
-/* ******************************* PORTFOLIO ******************************* */
+/* ❌❌❌ 🔥🔥🔥 FOOTER 🔥🔥🔥 */
+
+
+/* ✅✅✅ 🥩🥩🥩🥩🥩🥩PORTFOLIO 🥩🥩🥩🥩🥩🥩 */
+
 .batton-clasik {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -509,7 +524,10 @@ body {
         0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-/** __________________ ICON **/
+/* ❌❌❌ 🥩🥩🥩 PORTFOLIO 🥩🥩🥩 */
+
+
+/** ✅✅✅ 🍔🍔🍔🍔🍔🍔 ICON 🍔🍔🍔🍔🍔🍔 **/
 
 .fearure-icon-box {
     justify-content: center;
@@ -552,7 +570,10 @@ body {
     fill: var(--background-primary);
 }
 
-/* __________CUSTOMERS */
+/** ❌❌❌ 🍔🍔🍔 ICON 🍔🍔🍔 **/
+
+
+/* ✅✅✅ 🎹🎹🎹🎹🎹🎹 CUSTOMERS 🎹🎹🎹🎹🎹🎹 */
 
 .customers-items {
     justify-content: center;
@@ -591,8 +612,10 @@ body {
     fill: currentColor;
 }
 
+/* ❌❌❌ 🎹🎹🎹 CUSTOMERS 🎹🎹🎹 */
 
-/* ________________OVERLAY______________________ */
+
+/* ✅✅✅ 🌎 🌍 🌏 🌎 🌍 🌏  OVERLAY  🌎 🌍 🌏 🌎 🌍 🌏 */
 
 .filter-overlay {
     position: relative;
@@ -601,10 +624,6 @@ body {
 }
 
 .paragraf-overlay {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
     letter-spacing: 0.02em;
     position: absolute;
     /* top: 0;
@@ -624,11 +643,12 @@ body {
     transform: translate(0, 0);
 }
 
+/* ❌❌❌ 🌎 🌍 🌏 OVERLAY 🌎 🌍 🌏 */
 
 
-/* )))))))))))))________MODAL WINDOWS______++++++ */
+/* ✅✅✅ 🏙🏙🏙🏙🏙🏙 MODAL WINDOWS 🏙🏙🏙🏙🏙🏙 */
 
-/*_________ Index */
+/* ✅✅🐣🐣🐣🐣 Index 🐣🐣🐣🐣 */
 .backdrop {
     position: fixed;
     top: 0;
@@ -688,3 +708,5 @@ body {
 .icon-btn-close {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+/* ❌❌ 🐣🐣 Index 🐣🐣*/
